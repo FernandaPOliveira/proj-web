@@ -1,16 +1,21 @@
-# :checkered_flag: NOME DO PROJETO
+# :checkered_flag: MEU PORTFÓLIO ONLINE
 
-Breve descrição do que o seu projeto faz.
+O site de portfólio pessoal é uma ferramenta valiosa para mostrar seu trabalho e experiência de forma organizada e atrativa a fim de impressionar e cativar pessoas interessadas em suas habilidades e realizações profissionais.
 
 ## :technologist: Membros da equipe
 
-Matrícula, nome e curso dos participantes.
+Fernanda Pessoa Oliveira de Sousa
+Matrícula: 493982
+Curso: Redes de Computadores
+
+Rodrigo Lima Viana
+Matrícula: 475194
+Curso: Redes de Computadores 
+
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
-Informe aqui os tipos de usuário que irão interagir com a aplicação. Ex: administrador, locador, locatario, usuário não logado.
-
-> Tenha em mente que obrigatoriamente a aplicação deve possuir funcionalidades acessíveis a todos os tipos de usuário e outra funcionalidades restritas a certos tipos de usuários.
+Usuários que irão interagir com a aplicação: Administrador, Cliente(Usuário não logado) e Usuário(Quem vai cadastrar seu portfólio para serviço)
 
 ## :spiral_calendar: Entidades ou tabelas do sistema
 
