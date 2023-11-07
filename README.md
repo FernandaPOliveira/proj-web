@@ -1,12 +1,14 @@
-# :checkered_flag: MEU PORTFÓLIO ONLINE
+# :checkered_flag: BEAUTY WEB SHOP
 
-O site de portfólio pessoal é uma ferramenta valiosa para mostrar seu trabalho e experiência de forma organizada e atrativa a fim de impressionar e cativar pessoas interessadas em suas habilidades e realizações profissionais.
+BeautyWebShop é um sistema web que funcionará como uma loja online de produtos de beleza.
 
 ## :technologist: Membros da equipe
 
 Fernanda Pessoa Oliveira de Sousa
 Matrícula: 493982
 Curso: Redes de Computadores
+
+
 
 Rodrigo Lima Viana
 Matrícula: 475194
@@ -15,7 +17,7 @@ Curso: Redes de Computadores
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
-Usuários que irão interagir com a aplicação: Administrador, Cliente(Usuário não logado) e Usuário(Quem vai cadastrar seu portfólio para serviço)
+Usuários que irão interagir com a aplicação: Administrador, Vendedor e Cliente.
 
 ## :spiral_calendar: Entidades ou tabelas do sistema
 
