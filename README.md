@@ -17,24 +17,18 @@ Curso: Redes de Computadores
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
-Usuários que irão interagir com a aplicação: Administrador, Vendedor e Cliente.
+Usuários que irão interagir com a aplicação: Administrador e Cliente.
 
 ## :spiral_calendar: Entidades ou tabelas do sistema
 
-Usuário, usuário não logado, administrador, portfolio, projeto, habilidade
+Produto, usuário, categorias, pedidos, avaliação.
 
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
 
 Descreve ou liste brevemente as principais funcionalidades da aplicação que será desenvolvida. Destaque a funcionalidades que serão acessévies a todos os usuários e aquelas restriras a usuários logados.
 
 
-
-
-A aplicação que será desenvolvida é o projeto de portfólio online, onde os usuários poderão criar seus portfolios relacionados a alguma habilidade ou conhecimento, assim como poderão adicionar projetos a esses portfolios, e tambem compartilhar seus portifolios ou projetos com os demais usuarios do sistema, poderão tambem visualizar projetos de outros usuarios, dependendo da sua area de interesse. 
-
-todos os usuarios poderão pesquisar  e visualizar portfolios e projetos de acordo com seu determinado interesse assim como poderão visualizar os perfils dos donos dos portfolios/projetos
-os usuarios logados poderão adicionar portfolios/projetos, compartilhar e interagir com outros usuarios, como adicionar comentarios ou sugestões em projetos de terceiros.
-
+A aplicação desenvolvida será de uma loja online de produtos de beleza. A loja terá produtos de beleza que irão pertencer a uma determinada categoria e os usuários serão os clientes que desejam comprar esses produtos. O administrador do site poderá realizar todas as operações de CRUD. Qualquer usuário que acessar a página home poderá ver os produtos. Usuários logados podem fazer pedidos, vizualizar e realizar avaliações.
 
 
 
@@ -47,11 +41,11 @@ os usuarios logados poderão adicionar portfolios/projetos, compartilhar e inter
 
 **Frontend:**
 
-Lista as tecnologias, frameworks e bibliotecas utilizados.
+Html, CSS, VueJS e TypeScript.
 
 **Backend:**
 
-Lista as tecnologias, frameworks e bibliotecas utilizados.
+Usar o Strapi
 
 
 ## :shipit: Operações implementadas para cada entidade da aplicação
@@ -59,9 +53,11 @@ Lista as tecnologias, frameworks e bibliotecas utilizados.
 
 | Entidade| Criação | Leitura | Atualização | Remoção |
 | --- | --- | --- | --- | --- |
-| Entidade 1 | X |  X  |  | X |
-| Entidade 2 | X |    |  X | X |
-| Entidade 3 | X |    |  |  |
+| Produto | X | X | X | X |
+| Usuario | X | X |  | X |
+| Categorias | X | X | X | X |
+| Pedidos| X | X | X | X |
+| Avaliações | X | X | X | X |
 
 > Lembre-se que é necessário implementar o CRUD de pelo menos duas entidades.
 
