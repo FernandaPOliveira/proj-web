@@ -41,11 +41,11 @@ A aplicação desenvolvida será de uma loja online de produtos de beleza. A loj
 
 **Frontend:**
 
-Html, CSS, VueJS e TypeScript.
+Html, CSS, VueJS, TypeScript, Bootstrap.
 
 **Backend:**
 
-Usar o Strapi
+Strapi
 
 
 ## :shipit: Operações implementadas para cada entidade da aplicação
